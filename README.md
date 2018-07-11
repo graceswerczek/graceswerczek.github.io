@@ -1,1 +1,4 @@
-"# graceswerczek.github.io" 
+# graceswerczek.github.io
+
+personal website
+currently under construction
